@@ -1,0 +1,6 @@
+Sources :
+• Google Maps Help (_nomap) : https://support.google.com/maps/answer/1725632?hl=fr
+• Apple — Services de localisation et confidentialité (Wi-Fi / _nomap) : https://support.apple.com/fr-fr/102515
+• Selectra (04/11/2026) : https://selectra.info/telecom/actualites/marche/wifi-box-nomap-google-apple-localisation
+
+Geste : réglages Wi-Fi de la box → SSID + _nomap (sans espace) → réseau visible → reconnecter les appareils.

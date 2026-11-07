@@ -1,0 +1,24 @@
+Your ISP box Wi-Fi name helps Google and Apple locate phones nearby.
+
+Add _nomap at the end of the SSID. Keep the network visible (not hidden).
+
+#wifi #privacy
+---
+How:
+1. Open your box Wi-Fi settings
+2. Rename e.g. Home → Home_nomap (no space)
+3. Leave SSID visible — a hidden name makes Apple's opt-out ineffective
+4. Reconnect every device
+
+Official: Google Maps Help + Apple Wi-Fi positioning.
+---
+Have you already added _nomap to your box?
+
+Follow @hecadium for clear cyber tips (French cybersecurity AI, still in development).
+
+Sources:
+https://support.google.com/maps/answer/1725632
+https://support.apple.com/en-us/102515
+https://selectra.info/telecom/actualites/marche/wifi-box-nomap-google-apple-localisation
+
+D.S

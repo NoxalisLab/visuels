@@ -1,0 +1,21 @@
+Box Wi-Fi _nomap : Google et Apple utilisent le nom de votre réseau pour situer les téléphones autour. 📡
+
+Votre box (Livebox, Freebox, Bbox…) diffuse un SSID. Ce nom entre dans les systèmes de positionnement Wi-Fi de Google et d’Apple. Ce n’est pas votre adresse postale stockée telle quelle : c’est une balise radio utilisée pour localiser les téléphones à proximité.
+
+✅ Le geste (2 minutes) :
+1. Ouvrez les réglages Wi-Fi de votre box (souvent via l’appli opérateur ou 192.168.1.1).
+2. Ajoutez _nomap à la fin du nom du réseau, sans espace (ex. Maison → Maison_nomap).
+3. Laissez le réseau visible (SSID caché = l’opt-out Apple ne marche pas).
+4. Reconnectez vos appareils au nouveau nom.
+
+📲 Envoyez ce Reel à celui qui a une box à la maison.
+
+Suivez @hecadium : on vous prévient quand votre téléphone ou votre box est concerné.
+
+Vous avez déjà ajouté _nomap ? Dites-le en commentaire 👇
+
+Écrans montrés : reconstitués, fictifs.
+Hécadium, notre IA de cybersécurité, est en développement.
+📚 Sources : Google Maps Help, Apple (Wi-Fi positioning), Selectra (04/11/2026). Liens en commentaire.
+
+#wifi #box #nomap #vieprivee #cybersécurité
